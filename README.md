@@ -1,5 +1,5 @@
 # Dracula
-![](./safe.svg =250x)
+![](safe.svg)
 
 
 Cross platform desktop application to encrypt and decrypt your files
