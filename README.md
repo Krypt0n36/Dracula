@@ -1,5 +1,5 @@
 # Dracula
-![icon|200x200](safe.svg)
+![icon|10x10](safe.svg)
 
 
 Cross platform desktop application to encrypt and decrypt your files
