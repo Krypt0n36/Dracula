@@ -10,4 +10,16 @@ Dracula is an opensource project by **KRYPT0N** (me) that consits of a crossplat
 
 ## How to use :
 Lets imagine that you have a secret picture of Elon musk smoking pot! So you wish to encrypt it so only you and the key holders are able to see it. I will issume that you already installed **dracula**, first you have to fire up dracula.exe (or the desktop shortcut), then the application will show up as bellow.
+
 ![screenshot|200x](tuto/mainScreen.png)
+
+The main window gives you the choice to whether you want to encrypt a file or to decrypt an encrypted file, In out scenario we will choose to encrypt by clicking of the **Encrypt** button.
+
+![screenshot|200x](tuto/fileDialog.png)
+
+A file dialog will appear as shown above, now you need to select the image to perferm the action on, then click Select.
+
+![screenshot|200x](tuto/encryptForm.png)
+
+Now a new window will popup, it indicates that you are willing to encrypt a file, it asks for a passcode AKA the encryption key and to rewrite it again to be sure that you set it right. Dracula also gives you the choice to generate a strong passcode randomly but you have to make sure you write it down on a piece of paper or to memorise it (pretty hard :3). Then submit **Encrypt**
+
