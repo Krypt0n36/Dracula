@@ -1,5 +1,5 @@
 {
-  "name": "drakula",
+  "name": "dracula",
   "version": "1.0.0",
   "description": "Encrypt your files and disks",
   "main": "app.js",
@@ -21,7 +21,8 @@
   "keywords": [
     "encryption",
     "files",
-    "security"
+    "security",
+    "AES256"
   ],
   "author": "KRYPT0N",
   "license": "ISC"
