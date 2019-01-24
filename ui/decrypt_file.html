@@ -1,0 +1,78 @@
+<html>
+
+<head>
+	<link rel="stylesheet" href="https://bootswatch.com/4/yeti/bootstrap.min.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+	 crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.2.0/animate.min.css">
+	<link rel="stylesheet" href="css/popup.css">
+	<link rel="stylesheet" href="css/master.css">
+
+	<script>
+		window.$ = window.jQuery = require('./js/jquery.min.js');
+
+	</script>
+
+
+	<title>Decrypt File </title>
+</head>
+
+<body class="bg-night">
+	<nav class="header">
+		<h1 class="text-center"><i class="fas fa-file-alt"></i> Decrypt file</h1>
+	</nav>
+	<div class="container">
+		<p class="light-text mb-2">
+            Warning: Using the "override" option with a wrong passcode may damage your files.
+        </p>
+		<div class="form-group inline-form">
+			<label for="key">Passcode :</label>
+			<input type="password" id="key" class="form-control " />
+		</div>
+		<!--<div class="form-group">
+			<label for="rkey">Repeat passcode :</label>
+			<input type="password" id="rkey" class="form-control" />
+		</div> -->
+		<div class="custom-control custom-checkbox">
+			<input type="checkbox" class="custom-control-input" id="override-checkbox">
+			<label class="custom-control-label"  for="override-checkbox">Override existing file.</label>
+		</div>
+		<button id="decrypt" class="btn btn-yellow float-right ml-2" data-toggle="modal"  data-target="#loading-modal" >Decrypt</button>
+		<!-- <button id="randomize" class="btn btn-light float-right">Random</button>-->
+
+
+	</div>
+
+	<div class="modal" id="modal" data-role="loadingModal" >
+		<div class="modal-body">
+			<div class="loading" id="status">
+					<img src="svg-loaders/oval.svg" id="status-icon" class="mb-2" width="100px"></br>
+					<h3 id="status-label">Decrypting..</h3>
+			</div>
+		</div>
+	</div>
+
+	<script src="js/backbone.js"></script>
+
+</body>
+
+</html>	
+
+<style>
+	.light-text {
+		color: #b0b0b0;
+	}
+
+	.header {
+		background-color: #ffdd33;
+		color: white;
+		padding: 5px;
+		margin-bottom: 10px;
+	}
+
+	.loading {
+		top: 60px;
+   		position: relative;
+	}
+
+</style>
