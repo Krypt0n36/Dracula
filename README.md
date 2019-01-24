@@ -1,5 +1,5 @@
 # Dracula
-![icon|10x10,100%](icon.png)
+[![icon|10x10,100%](icon.png)](https://github.io)
 
 
 Cross platform desktop application to encrypt and decrypt your files</br>
