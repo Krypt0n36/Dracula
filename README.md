@@ -1,6 +1,6 @@
 # Dracula
-![Github Logo](safe.svg =250x)
-Format: ![Dracula Icon](url)
+![](safe.svg =250x)
+
 
 Cross platform desktop application to encrypt and decrypt your files
 "Dance like nobody is watching, encrypt like everyone is."~Unknown
