@@ -27,4 +27,4 @@ Now a new window will popup, it indicates that you are willing to encrypt a file
 Going back to file explorer, you will notice a new file created under the name of your orginial file concanted with a .dnc file extension.
 
 ##Horray! now you have your encrypted file that is impossible to read without your passcode!
-![brba|200x](tuto/brbra.jpg)
+![meme|200x](tuto/brbra.jpg)
