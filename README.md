@@ -29,3 +29,9 @@ Going back to file explorer, you will notice a new file created under the name o
 ## Horray! now you have your encrypted file that is impossible to read without your passcode!
 
 ![meme|200x](tuto/brba.jpg)
+
+
+Coming features:
+- Main window drag and drop files and folders.
+- Passcode checking
+- Drive encryption
