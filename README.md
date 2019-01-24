@@ -1,5 +1,5 @@
 # Dracula
-![icon|10x10,100%](dracula.png)
+![icon|10x10,100%](icon.png)
 
 
 Cross platform desktop application to encrypt and decrypt your files
