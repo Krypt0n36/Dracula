@@ -1,5 +1,5 @@
 const rs = require('randomstring');
-require('./../crypton/index.js');
+const {encryptAsync, encryptSync, encryptQAsync, encryptQSync, decryptAsync, decryptSync, decryptQAsync, decryptQSync} = require('./../crypton/index.js');
 const { ipcRenderer, remote } = require('electron')
 const fs = require('fs')
 const path = require('path')
