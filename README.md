@@ -2,7 +2,7 @@
 ![icon|10x10,100%](icon.png)
 
 
-Cross platform desktop application to encrypt and decrypt your files
+Cross platform desktop application to encrypt and decrypt your files</br>
 "Dance like nobody is watching, encrypt like everyone is."~Unknown
 
 ## General informations :
