@@ -21,5 +21,10 @@ A file dialog will appear as shown above, now you need to select the image to pe
 
 ![screenshot|200x](tuto/encryptForm.PNG)
 
-Now a new window will popup, it indicates that you are willing to encrypt a file, it asks for a passcode AKA the encryption key and to rewrite it again to be sure that you set it right. Dracula also gives you the choice to generate a strong passcode randomly but you have to make sure you write it down on a piece of paper or to memorise it (pretty hard :3). Then submit **Encrypt**
+Now a new window will popup, it indicates that you are willing to encrypt a file, it asks for a passcode AKA the encryption key and to rewrite it again to be sure that you set it right. Dracula also gives you the choice to generate a strong passcode randomly but you have to make sure you write it down on a piece of paper or to memorise it (pretty hard :3). Then submit **Encrypt**. A loading screen will appear then it will print a toast that indicates if the operation has been successfully done or an error occured.
 
+![screenshot|200x](tuto/fileExplorer.PNG)
+Going back to file explorer, you will notice a new file created under the name of your orginial file concanted with a .dnc file extension.
+
+##Horray! now you have your encrypted file that is impossible to read without your passcode!
+![brba|200x](tuto/brbra.jpg)
