@@ -1,7 +1,6 @@
 # Dracula
 [![icon|10x10,100%](icon.png)](https://github.io)
 
-
 Cross platform desktop application to encrypt and decrypt your files</br>
 "Dance like nobody is watching, encrypt like everyone is."~Unknown
 
@@ -38,3 +37,10 @@ Coming features:
 - Main window drag and drop files and folders.
 - Passcode checking
 - Drive encryption
+- Linux and MacOs support
+
+## Setup
+### Windows
+x86 : **[Unpack.msi]('https://download.com')**</br>
+x64 : **[Unpack.msi]('https://download.com')**
+
