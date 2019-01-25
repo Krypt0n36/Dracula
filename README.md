@@ -10,22 +10,22 @@ Dracula also provides a built-in **gzip** compressor, so your files become light
 
 ## How to use :
 ### Encrypting a file
-Lets imagine that you have a secret picture of Elon Musk smoking pot! So you wish to encrypt it so only you and the key holders are able to see it. I will issume that you already installed **dracula**, first you have to fire up dracula.exe (or the desktop shortcut), then the application will show up as bellow.
+Lets imagine that you have a secret picture of Elon Musk smoking pot! So you wish to encrypt it so only you and the key holders are able to see it. I will assume that you already installed **dracula**, first you have to fire up dracula.exe (or the desktop shortcut), then the application will show up as bellow.
 
 ![mainScreen|200x](tuto/mainScreen.png)
 
-The main window gives you the choice to whether you want to encrypt a file or to decrypt an encrypted file, In out scenario we will choose to encrypt by clicking of the **Encrypt** button.
+The main window gives you the choice to whether you want to encrypt a file or to decrypt an encrypted file, In our scenario we will choose to encrypt by clicking of the **Encrypt** button.
 
 ![fileDialog|200x](tuto/fileDialog.PNG)
 
-A file dialog will appear as shown above, now you need to select the image to perferm the action on, then click Select.
+A file dialog will appear as shown above, now you need to select the image to perform the action on, then click Select.
 
 ![screenshot|200x](tuto/encryptForm.PNG)
 
 Now a new window will popup, it indicates that you are willing to encrypt a file, it asks for a passcode AKA the encryption key and to rewrite it again to be sure that you set it right. Dracula also gives you the choice to generate a strong passcode randomly but you have to make sure you write it down on a piece of paper or to memorize it (pretty hard :3). Then submit **Encrypt**. A loading screen will appear then it will print a toast that indicates if the operation has been successfully done or an error occured.
 
 ![screenshot|200x](tuto/fileExplorer.PNG)
-Going back to file explorer, you will notice a new file created under the name of your orginial file concanted with a .dnc file extension.
+Going back to file explorer, you will notice a new file created under the name of your orginial file concatenated with a .dnc file extension.
 
 ## Horray! now you have your encrypted file that is impossible to read without your passcode!
 
