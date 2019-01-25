@@ -4,7 +4,7 @@
 **Cross platform desktop application to encrypt and decrypt your files**</br>
 *"Dance like nobody is watching, encrypt like everyone is."~Unknown*
 
-## General informations :
+## General information :
 Dracula is an opensource project by **KRYPT0N** (me) that consists of a crossplatform desktop application created with nodejs and electron using the web technologies, this application provides you an easy way to encrypt your files with an "encryption key" AKA **passcode**, it uses a super strong encryption algorithm known as **AES256** which is considered mathematically **impossible** to decrypt (obtain the original file) without the presence of the "encryption key". After encrypting your file, you will realize a new one has been created with a .dnc file extension (Dracula eNCrypted File). Then if you want to reaccess to your original file, you will need to decrypt this **.dnc** file using Dracula.</br>
 Dracula also provides a built-in **gzip** compressor, so your files become lighter than before.
 
